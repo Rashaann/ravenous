@@ -1,4 +1,4 @@
-# "Ravenous project from Codecademy"
+# "Ravenous" project from Codecademy
 
 This project shows my abilities in React framework as well as JS, HTML and CSS.
 
