@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# "Ravenous project from Codecademy"
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project shows my abilities in React framework as well as JS, HTML and CSS.
 
 ## Available Scripts
 
