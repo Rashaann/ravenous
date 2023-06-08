@@ -1,7 +1,7 @@
 export default function Business(props){
     return(
         <>
-            <img src={props.image} width={100} />
+            <img src={props.image} width={250} height={250} />
             
             <div>
                 <div>{props.name}</div>
